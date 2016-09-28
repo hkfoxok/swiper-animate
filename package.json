@@ -1,0 +1,24 @@
+{
+  "name": "swiper-animate",
+  "version": "1.0.2",
+  "description": "animate",
+  "main": "swiper.animate1.0.2.min.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkfoxok/swiper-animate.git"
+  },
+  "keywords": [
+    "animate"
+  ],
+  "author": "null",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkfoxok/swiper-animate/issues"
+  },
+  "homepage": "https://github.com/hkfoxok/swiper-animate#readme"
+}
